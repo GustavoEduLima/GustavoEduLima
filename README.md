@@ -17,7 +17,7 @@
 
 ---
 
-## Stat´s do GitHub
+## Statistic do GitHub
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEduLima&layout=compact&theme=dracula"/>
