@@ -17,7 +17,7 @@
 
 ---
 
-## Stats do GitHub
+## Stat´s do GitHub
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoEduLima&layout=compact&theme=dracula"/>
@@ -51,14 +51,14 @@
 ## 📂 Projetos em destaque
 
 - [Sistema de Alerta de Enchentes com ESP32](https://www.linkedin.com/posts/muriloeduardolima_sorocaba-enchentes-prevenaexaetodeacidentes-activity-7203812533122539520-zBw5?utm_source=share&utm_medium=member_desktop)
-- [KomunityON](https://www.linkedin.com/posts/danielg-cravo_komunityon-inovaaexaeto-tecnologia-ugcPost-7272223845879590912-O007?utm_source=share&utm_medium=member_desktop)
+- [KomunnityON](https://www.linkedin.com/posts/danielg-cravo_komunityon-inovaaexaeto-tecnologia-ugcPost-7272223845879590912-O007?utm_source=share&utm_medium=member_desktop)
 
 ---
 
 ## Bora trocar uma ideia?
 
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/gustavoeduardolima)
-- Email: [seuemail@email.com](mailto:gustavohlima24@gmail.com)
+- LinkedIn: [linkedin.com/in/gustavoeduardolima](https://linkedin.com/in/gustavoeduardolima)
+- Email: [gustavohlima24@gmail.com](mailto:gustavohlima24@gmail.com)
 
 ---
 
