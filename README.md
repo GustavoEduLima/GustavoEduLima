@@ -60,6 +60,4 @@
 - LinkedIn: [linkedin.com/in/gustavoeduardolima](https://linkedin.com/in/gustavoeduardolima)
 - Email: [gustavohlima24@gmail.com](mailto:gustavohlima24@gmail.com)
 
----
-
 <!-- <img width="100%" src="https://i.imgur.com/jxrcz7U.jpg"/> <!-- Pode usar outro graffiti aqui no rodapé também -->
