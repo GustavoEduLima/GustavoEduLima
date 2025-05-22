@@ -48,7 +48,7 @@
 
 ---
 
-## 📂 Projetos em destaque
+## 📂 Projects em destaque
 
 - [Sistema de Alerta de Enchentes com ESP32](https://www.linkedin.com/posts/muriloeduardolima_sorocaba-enchentes-prevenaexaetodeacidentes-activity-7203812533122539520-zBw5?utm_source=share&utm_medium=member_desktop)
 - [KomunnityON](https://www.linkedin.com/posts/danielg-cravo_komunityon-inovaaexaeto-tecnologia-ugcPost-7272223845879590912-O007?utm_source=share&utm_medium=member_desktop)
