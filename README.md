@@ -6,7 +6,7 @@
 
 ---
 
-## Um pouco de mim:
+## Um pouco de mim
 
 - 💻 Curto muito tecnologia e aquele corre de programar código limpo.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas (FACENS).
@@ -25,7 +25,7 @@
 
 ---
 
-## ⚙ Techs:
+## ⚙ Techs
 
 <div align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
@@ -37,7 +37,7 @@
 
 ---
 
-## 🔧 IDEs e Ferramentas:
+## 🔧 IDEs e Ferramentas
 
 <div align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode"/>
