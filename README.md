@@ -63,11 +63,22 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/pacman-contribution-graph.svg">
-</picture>
+<section aria-labelledby="graph-title">
+  <h2 id="graph-title" style="text-align: center;">🎮 Meu Gráfico de Contribuições Pac-Man</h2>
+  <figure style="display: flex; justify-content: center; align-items: center; flex-direction: column; margin: 2rem 0;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/pacman-contribution-graph.svg">
+      <img 
+        src="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/pacman-contribution-graph.svg" 
+        alt="Gráfico de contribuições do GitHub com tema Pac-Man" 
+        style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    </picture>
+    <figcaption style="margin-top: 1rem; font-size: 0.9rem; color: #666;">
+      Um toque divertido no gráfico de contribuições! 🍒👻
+    </figcaption>
+  </figure>
+</section>
 
 ###
 
