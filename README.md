@@ -63,5 +63,12 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 <!-- <img width="100%" src="https://i.imgur.com/jxrcz7U.jpg"/> <!-- Pode usar outro graffiti aqui no rodapé também -->
