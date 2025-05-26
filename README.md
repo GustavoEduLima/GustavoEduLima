@@ -1,8 +1,17 @@
 <!-- <img width="100%" src="https://i.imgur.com/jxrcz7U.jpg"/> <!-- Aqui você pode trocar por outro graffiti -->
 
-## E aí? Seja muito bem-vindo ao meu GitHub!
+<h1 align="center">hey there 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=1000&lines=Fala+aí,+eu+sou+Gustavo!;Programo+com+Java,+JS,+Python+e+HTML|CSS.;VSCode+e+Eclipse+no+setup.;Tamo+junto+no+mundo+dev!)](https://git.io/typing-svg)
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GustavoEduLima.GustavoEduLima&"  />
+</div>
+
+###
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Fala+aí,+eu+sou+Gustavo!;Programo+com+Java,+JS,+Python+e+HTML|CSS.;VSCode+e+Eclipse+no+setup.;Tamo+junto+no+mundo+dev!)](https://git.io/typing-svg)
 
 ---
 
