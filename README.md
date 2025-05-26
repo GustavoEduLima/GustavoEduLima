@@ -71,5 +71,9 @@
 
 ---
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 <!-- <img width="100%" src="https://i.imgur.com/jxrcz7U.jpg"/> <!-- Pode usar outro graffiti aqui no rodapé também -->
