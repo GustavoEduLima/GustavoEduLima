@@ -15,7 +15,7 @@
 
 ---
 
-## Um pouco de mim
+<h3 align="left">👨🏾‍💻  About Me</h3>
 
 - 💻 Curto muito tecnologia e aquele corre de programar código limpo.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas (FACENS).
@@ -26,7 +26,7 @@
 
 ---
 
-## Statistic do GitHub
+<h3 align="left">🔥   My Stats </h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GustavoEduLima&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -35,7 +35,7 @@
 
 ---
 
-## ⚙ Techs
+<h3 align="left">⚙   Techs  </h3>
 
 <div align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## 🔧 IDEs e Ferramentas
+<h3 align="left">🔧  IDEs e Ferramentas  </h3>
 
 <div align="center">
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode"/>
@@ -58,14 +58,13 @@
 
 ---
 
-## 📂 Projects em destaque
+<h3 align="left">📂  Projects em destaque  </h3>
 
 - [Sistema de Alerta de Enchentes com ESP32](https://www.linkedin.com/posts/muriloeduardolima_sorocaba-enchentes-prevenaexaetodeacidentes-activity-7203812533122539520-zBw5?utm_source=share&utm_medium=member_desktop)
 - [KomunnityON](https://www.linkedin.com/posts/danielg-cravo_komunityon-inovaaexaeto-tecnologia-ugcPost-7272223845879590912-O007?utm_source=share&utm_medium=member_desktop)
 
 ---
-
-## Bora trocar uma ideia?
+<h3 align="left">  Bora trocar uma ideia?   </h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gustavoeduardolima/" target="_blank">
@@ -76,7 +75,6 @@
   </a>
 
 </div>
-
 
 ---
 
