@@ -38,9 +38,9 @@
 <h3 align="center">⚙   Techs  </h3>
 
 <div align="center">
-  <a href="https://github.com/GustavoEduLima/POO"
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
-  </a>
+  
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" href="https://github.com/GustavoEduLima/POO"/>
+
   <a href="https://github.com/GustavoEduLima/L.P"
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
   </a>
