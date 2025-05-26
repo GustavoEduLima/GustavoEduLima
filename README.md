@@ -38,19 +38,19 @@
 <h3 align="center">⚙   Techs  </h3>
 
 <div align="center">
-  <a href=""
+  <a href="https://github.com/GustavoEduLima/POO"
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
   </a>
-  <a href=""
+  <a href="https://github.com/GustavoEduLima/L.P"
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
   </a>
-  <a href= ""
+  <a href= "https://drive.google.com/drive/folders/1MESiaFDcUbwFUvAe4HqD05fdf3-kRuL1"
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
   </a>
-  <a href=""
+  <a href="https://github.com/GustavoEduLima/L.P"
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
   </a>
-  <a href=""
+  <a href="https://github.com/GustavoEduLima/L.P"
   <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
   </a>
   
