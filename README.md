@@ -77,10 +77,13 @@
 </div>
 
 ---
-
+<div align="center"
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/snake.svg" alt="Snake animation" />
+
+</div>
+
 
 
 <!-- <img width="100%" src="https://i.imgur.com/jxrcz7U.jpg"/> <!-- Pode usar outro graffiti aqui no rodapé também -->
