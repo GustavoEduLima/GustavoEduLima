@@ -11,7 +11,7 @@
 ###
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Fala+aí,+eu+sou+Gustavo!;Programo+com+Java,+JS,+Python+e+HTML|CSS.;VSCode+e+Eclipse+no+setup.;Tamo+junto+no+mundo+dev!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Fala+aí,+eu+sou+Gustavo!;Programo+com+Java,+JS,+Python.;VSCode+e+Eclipse+no+setup.;Tamo+junto+no+mundo+dev!)](https://git.io/typing-svg)
 
 ---
 
