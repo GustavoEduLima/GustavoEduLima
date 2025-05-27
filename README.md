@@ -87,7 +87,8 @@
 </div>
 
 ---
-<div align="center"
+<div align="center">
+  
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/GustavoEduLima/GustavoEduLima/output/snake.svg" alt="Snake animation" />
